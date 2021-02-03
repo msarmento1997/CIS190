@@ -1,0 +1,5 @@
+Odd Digits: 1 3 5 7 
+
+
+
+Even Digits: 2 4 6 8 
